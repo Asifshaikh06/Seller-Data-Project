@@ -49,3 +49,7 @@ Region-wise Performance
 Identified top-performing sellers contributing most revenue
 Found seasonal trends in sales
 Highlighted underperforming regions needing improvement
+
+📸 Project Screenshots
+<img width="1607" height="567" alt="image" src="https://github.com/user-attachments/assets/0190cd05-87a0-48ca-a258-2b9f07bd9b01" />
+<img width="1809" height="647" alt="image" src="https://github.com/user-attachments/assets/d3c894c6-9d04-4d52-a364-60cb39f914f1" />
